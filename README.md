@@ -1,20 +1,22 @@
 ## Apply
 
-## Pack
+Elk @ Island Park A
 
-Hauling pack
+General deer @ Island Park
+
+White-tailed deer @ Island Park
+
+## Pack
 
 Day pack
 
-Binoculars
+Wallet (license, tag)
 
-Cow call
-
-Bugle
-
-2 water bottles
+Pen
 
 Sunscreen
+
+2 water bottles
 
 Cough drops
 
@@ -22,23 +24,25 @@ First aids
 
 Toiletries
 
-Advil
-
-Wallet (license, tag)
-
-2 lighters
-
-Pen
+GPS
 
 Headlamp + Batteries
 
-GPS
+2 lighters
 
 Socks
+
+Range finder
+
+Cow call
+
+Bugle
 
 Field-dressing kit (ropes, knife, saw, sharpener, gloves, zip-lock bags for the liver, elk bags)
 
 Trash bags
+
+Hauling pack
 
 ## Go
 
