@@ -44,6 +44,8 @@ Trash bags
 
 Hauling pack
 
+Jacket - Camouflage (or Orange)
+
 ## Go
 
 Check gas
