@@ -6,6 +6,8 @@ General deer @ Island Park
 
 White-tailed deer @ Island Park
 
+Elk @ Wyoming 85
+
 Pronghorn @ Wyoming 88
 
 ## Pack
