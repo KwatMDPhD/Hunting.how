@@ -2,4 +2,4 @@
 
 Horizontal 7 from the right
 
-Vertical 3 from the top
+Vertical 2 from the top
